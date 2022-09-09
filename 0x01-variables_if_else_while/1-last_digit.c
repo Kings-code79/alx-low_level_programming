@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *  Main - Generates a random number and tells
+ *  main - Generates a random number and tells
  *  if its last digit is less than 6, > 5 or = 0
  *
  *  Return: return 0 if successful
@@ -20,7 +20,7 @@ int main(void)
 	}
 	else if ((n % 10) < 6 && (n % 10) != 0)
 	{
-		printf("Last digit od %d is %d and is less than 6 and not 0\n", n, n % 10);
+		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, n % 10);
 	}
 	else
 	{
