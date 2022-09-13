@@ -4,7 +4,7 @@
  * @n: number in question
  *
  * Return: return 1,0 and -1
- * 	for positve zero and negtive numbers respectively
+ *	for positve zero and negtive numbers respectively
  */
 int print_sign(int n)
 {
