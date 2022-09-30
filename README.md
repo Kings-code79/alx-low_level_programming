@@ -1,1 +1,1 @@
-README for c programming
+README file for this project
