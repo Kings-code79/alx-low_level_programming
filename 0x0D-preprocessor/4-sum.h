@@ -10,4 +10,4 @@
 
 #define SUM(x, y) ((x) + (y))
 
-#endif
+#endif  /* SUM_H */
